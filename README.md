@@ -1,4 +1,3 @@
-Of course. Here is a complete README markdown for your Node.js project. You can copy and paste this directly into a README.md file in your repository.
 
 Node.js Cat Fact Profile API
 This is a simple, lightweight backend server built with native Node.js. It provides a single API endpoint that returns a static user profile combined with a random cat fact fetched from an external API. This project is designed to demonstrate core Node.js concepts, including handling HTTP requests, asynchronous operations, error handling, and environment variables without relying on external frameworks like Express.
