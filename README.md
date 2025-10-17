@@ -42,14 +42,10 @@ Create an environment file: Create a file named .env in the root of your project
 
 Code snippet
 
-# .env file
-PORT=3000
-Running the Server
-To start the server, run the following command in your terminal:
 
 Bash
 
-npm start
+nodemon index.js
 You should see a confirmation message in your console: 🚀 Server is live and listening on http://localhost:3000
 
 API Endpoint
