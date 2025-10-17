@@ -1,0 +1,12 @@
+{
+	"name": "devyalchemitst-profile-endpoint-backend-track",
+	"version": "1.0.0",
+	"description": "A backend API that fetches my profile information as well as a dynamic cat fact from an external API",
+	"license": "ISC",
+	"author": "devyalchemist",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
